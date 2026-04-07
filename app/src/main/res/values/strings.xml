@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LabApp</string>
+
+    <string-array name="dishes_choice">
+        <item>Пошук</item>
+        <item>Тарілка</item>
+        <item>Чашка</item>
+        <item>Супниця</item>
+        <item>Сковорода</item>
+        <item>Каструля</item>
+        <item>Соусниця</item>
+        <item>Набір сталевих приборів</item>
+    </string-array>
+</resources>
